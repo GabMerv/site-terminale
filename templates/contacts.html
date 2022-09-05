@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+          <hr class="featurette-divider" />
+          <br />
+          <p>Envoyer un mail:</p>
+          <form method="" action="javascript:sendMail()">
+            <table border="0" cellspacing="1" width="400">
+              <tr>
+                <td width="98">Sujet</td>
+                <td width="295">
+                  <input type="text" id="edSubject" size="39" />
+                </td>
+              </tr>
+              <tr>
+                <td width="98">Message</td>
+                <td width="295">
+                  <textarea rows="3" id="edBody" cols="33"></textarea>
+                </td>
+              </tr>
+            </table>
+            <br />
+            <p>
+              Vous pourrez ajouter des pièces jointes après avoir sélectionné le
+              bouton valider
+            </p>
+          </form>
+
+          <input
+            type="submit"
+            class="btn btn-outline-primary me-2"
+            value="Valider"
+          />
+        </header>
+      </div>
+{% endblock %}

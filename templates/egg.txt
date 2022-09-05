@@ -1,0 +1,204 @@
+
+-------------------------------------------------------------------------------------------
+GOOGLE
+-------------------------------------------------------------------------------------------
+friends + nom d'un des personnages puis cliquer sur la petite icone sous le nom à gauche
+super mario bross cliquer sur le lucky block
+Green Hill Zone, cliquer sur le logo sonic
+
+Sur Android, en utilisant la recherche vocale, dites Lumos Maxima, et le flash de votre appareil s'allumera. Pour éteindre, dites Nox.
+
+do a barrel roll
+askew
+
+once in a blue moon
+la réponse de la vie / answer to life the universe and eveything
+justin bieber bacon number
+War in Ba Sing Se
+Wubba Lubba Dub Dub
+recursion
+anagramme / anagram
+binary
+octal
+hexadecimal
+Bletchley Park
+the loneliest number
+pelé (regarder en bas de la page)
+
+Google Logo History
+Fun Facts
+webdriver torso
+
+Random Number Generator
+Dreidels
+flip a coin
+solitaire
+tic tac toe
+roll a die
+tip calculator
+exercice de respiration
+earth day quiz
+tic tac toe
+metronome
+spinner
+Cha-Cha Slide
+
+time in "ville souhaitée"
+translate "mot" to "langue"
+"ville" forecast / weather / meteo
+"montant""unité" en "unité de conversion"
+
+
+cliquer sur "j'ai de la chance":
+conway's game of life
+zerg rush
+Thanos + cliquer sur le gant
+
+blink html
+marquee html
+Kerning
+
+1.2+(sqrt(1-(sqrt(x^2+y^2))^2) + 1 - x^2-y^2) * (sin (10 * (x*3+y/5+7))+1/4) from -1.6 to 1.6
+sqrt(cos(x))*cos(300x)+sqrt(abs(x))-0.7) *(4-x*x)^0.01, sqrt(6-x^2), -sqrt(6-x^2) from -4.5 to 4.5
+
+cliquer sur "j'ai de la chance":
+google basketball
+google canoe
+google soccer
+google pacman
+google snake
+
+liens cachés Google:
+https://www.google.com/logos/2016/halloween16/halloween16.html?&hl=fr&host=www.google.fr
+https://www.google.com/logos/2017/fischinger/fischinger17.html?&hl=fr&host=www.google.fr
+https://santatracker.google.com/
+https://www.google.com/logos/2017/fischinger/fischinger17.html?&hl=fr&host=www.google.fr
+https://www.google.com/logos/2017/vday17/vday17-27919858.html?&hl=fr&host=www.google.fr
+https://www.google.com/logos/2016/scoville/scoville16.html?&hl=fr&host=www.google.fr
+https://www.google.com/logos/2017/hiphop/hiphop17.html?&hl=fr&host=www.google.fr
+
+appuyer sur espace lors de la page d'erreur :"aucune connexion internet"
+faites tourner la roue pour l'annniversaire de google
+cris des animaux
+
+cliquer sur "j'ai de la chance":
+trouver chuck norris / find chuck norris
+google guitar
+google fish tank
+google underwater / google shuixia
+google mirror / elgoog
+epic google
+weenie google
+google mars
+google space
+google terminal
+google zipper
+google gravity
+google sphere
+google pond
+google sky
+google piano
+goglogo
+google in 1998
+google l33t
+google Klingon
+google pig latin
+google bork bork bork
+google Elmer Fudd
+google atari breakout
+
+https://www.google.com/maps?hl=fr&gl=FR&ll=51.492159,-0.19092&spn=0.005291,0.013937&sll=51.492140,-0.193028&layer=c&cid=12502927659667388442&panoid=c9UMhWP_MWm9U0L48xEjYw&cbp=13,291.8,,0,18.86&t=m&cbll=51.492132,-0.192862&z=17
+(regarder dans la cabine)
+
+https://archive.google.com/zeitgeist/2012/#the-world
+(en bas de la page si on passe sa souris sur la bande de couleurs)
+
+ctrl+Alt+a sur l'ancienne version de Google earth
+
+
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Firefox
+-------------------------------------------------------------------------------------------
+
+about:robots
+about:mozilla
+About:Credits
+about:about
+about:config
+about:crashes
+about:support
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Wikipedia
+-------------------------------------------------------------------------------------------
+
+https://fr.wikipedia.org/wiki/Easter_egg, cliquer sur le hérisson
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Amazon
+-------------------------------------------------------------------------------------------
+Tout en bas du code source de la page principale, il y a un canard qui fait miaou
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Youtube
+-------------------------------------------------------------------------------------------
+cliquer 3 fois sur tab pour avoir un bouton caché
+
+too many cooks (le titre est avec une police speciale)
+seinfeld without people (video sans titre)
+
+why do youtube views freeze at 301 (la video n'a que 301 vus)
+
+écrire awesome (juste comme ça dans le vide)
+
+chaine webdriver torso obligée de poster des videos de rectangles rouges et bleus (sauf 3)
+(créée par google et youtube)
+
+https://www.youtube.com/robots.txt
+
+https://www.youtube.com/new
+
+https://support.google.com/youtube/thread/18138167?hl=en (expériences youtube)
+
+changer www par gaming pout voir les bannières en full screen
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Google maps
+-------------------------------------------------------------------------------------------
+
+
+Choisir depart etats unis et arrivée Japon: le kayak est proposé
+Choisir depart Chine et arrivée Japon: le Jet-Ski est proposé
+Choisir depart the shire et arrivée mordor
+
+Quand on essaye d'activer street view au dessus de la zone 51, le personnage est un alien
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Debian
+-------------------------------------------------------------------------------------------
+apt-get moo
+apt-get help
+
+____________________________________________________________________________________
+
+-------------------------------------------------------------------------------------------
+Discord
+-------------------------------------------------------------------------------------------
+Quand on cherche une page impossible (https://discord.com/bob) appuyer sur le bouton près du roboy hamster
+printer.discord.com
+cliquer 15 fois sur le logo discord
+https://discord.com/developers/docs/topics/rate-limits
+sur la page si dessu, cliquer sur les deux points de la ligne: Note that the normal rate-limiting headers will be sent in this response. The rate-limiting response will look something like the following:

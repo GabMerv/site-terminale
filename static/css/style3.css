@@ -1,0 +1,16 @@
+
+.identifiants{
+  color:red;
+  text-align:center;
+}
+.centerIt{
+  text-align: center;
+}
+
+.links{
+  color:red;
+  text-align: center;
+}
+.links:hover{
+  color:red;
+}

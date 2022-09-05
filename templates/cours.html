@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+      <p class="centerIt">
+        Liens vers les différents cours disponibles:
+        <br /><br />
+        {% for post in posts %}
+        <details class="centerIt">
+          <summary>
+            {{ post['title'] }}<br>
+            <br>
+          </summary>
+          {% set images = post['images'].split(' ') %}
+          {% for image in images %}
+          <img class="school" src={{ image }}><br><br>
+          <hr class="featurette-divider" />
+          {% endfor %}
+          <form action="{{ url_for('delete', id=post['id']) }}" method="POST">
+          <input type="submit" value="Supprimer"
+                class="littleBtn"
+                onclick="return confirm('Voulez-vous vraiment supprimer ce cours?')">
+           </form>
+        </details>
+        {% endfor %}
+      </p>
+      <p class="centerIt">
+      <a href="/add.html" class="centerIt">Ajouter un cours</a>
+    </p>
+
+{% endblock %}

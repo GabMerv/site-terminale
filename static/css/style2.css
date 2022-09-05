@@ -1,0 +1,24 @@
+.livres{
+  text-align: center;
+}
+.identifiants{
+  color:red;
+  text-align:center;
+}
+.centerIt{
+  text-align: center;
+}
+
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0; transform: translateX(-10px)}
+  100%  {opacity: 1; transform: translateX(0)}
+}
+
+.school {
+  width: 75vh;
+  text-align: center;
+}
